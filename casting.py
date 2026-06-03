@@ -1,4 +1,7 @@
 members_average = 25.5
-members_average = "obi"
+x = str(members_average)
 
-print(type(members_average))
+print(x)
+print(type(x))
+
+
