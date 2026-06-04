@@ -9,7 +9,7 @@ print(x)
 print(y)
 print(z)
 
-"""
+
 name = "kelechukwu"
 
 for x in name:
@@ -19,5 +19,26 @@ for x in name:
 
 print(len(name))
 
-statement = "obi is a boy"
-print("b" in statement)
+statement = "informationtechnology"
+print((statement[1::3]))
+"""
+
+
+
+
+my_fruits = ["orange", "apple", "mango", "banana", "grape", "cocumber", "papaya", "watermelon"]
+
+sweatest = my_fruits[4]
+
+print(sweatest[1])
+
+name1 =  "obi is a boy"
+name2 =  "ada is a girl"
+
+"""
+print(name1.upper())
+print(name1.capitalize())
+print(name1.strip())"""
+
+print( f"{name1}  {name2}")
+
