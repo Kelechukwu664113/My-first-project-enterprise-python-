@@ -42,3 +42,7 @@ print(name1.strip())"""
 
 print( f"{name1}  {name2}")
 
+
+
+
+print("hello world")
